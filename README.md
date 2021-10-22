@@ -1,0 +1,2 @@
+Still on the foundation of my journey to become a web developer! On this project: Recipes, i am required to put all the skills i have learnt so far from theodinproject into practice.
+The skills include; knowing your ways through the terminal of your OS, knowing how to organize and upload my project on GitHub so it can be assessible to others, knowing the basic foundation of HTML and how to create a simple website usinh HTML.
